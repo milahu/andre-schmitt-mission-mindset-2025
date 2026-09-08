@@ -86,10 +86,10 @@ und lerne, wie du mit innerer Stärke, Fokus und Elite-Strategien zu der Führun
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### andre.schmitt.mission.mindset.2025.600dpi.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:30bd66b9735cc5b74dc0b61027dbf318d86d120b&dn=andre.schmitt.mission.mindset.2025.600dpi.german.book.scan&xl=564927951&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
